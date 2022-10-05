@@ -6,6 +6,8 @@
 Lifespline Crypto
 =================
 
+``lifespline/crypto`` provides knowledge about society, digital currencies and related technologies. It aims at understanding society as a means of extracting revenue from digital currencies.
+
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
